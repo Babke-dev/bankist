@@ -1,11 +1,17 @@
-The bankist-app website built using HTML, CSS  and Javascript with the purpose of training and showing advanced DOM events within vanilla JS. 
+🔧 Tech Stack
+- HTML
+- CSS (Flexbox & Grid)
+- JavaScript (ES6+)
 
-*** Screen transitions
-*** Sliders
-*** Lazy-loading 
-*** Modal windows
-*** Tabbed component
-*** Sticky nav
-*** Revealing elements on scroll
-*** Responsive design,
-and some other features can be found in the code/site.
+🚀 Live Demo
+https://bankist-eta.vercel.app/
+
+📂 Features
+
+- Smooth scrolling navigation
+- Sticky navigation bar
+- Section reveals animations on scroll
+- Lazy loading for images
+- Modal window for login simulation
+- Tabbed component for feature highlights
+- Fully responsive design for all screen sizes
